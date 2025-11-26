@@ -46,10 +46,6 @@ Execute all tests using Maven:
 mvn test
 ```
 
-## Key Test Files
-- `fakerApi.java`: Contains API tests for addresses, books, companies, and products endpoints.
-- `dummyApi.java`: (Optional) Add your own dummy API tests here.
-
 ## Example Test
 A sample test for the addresses' endpoint:
 ```java
@@ -75,3 +71,5 @@ public void testSingleAddress() {
 - [RestAssured](https://rest-assured.io/)
 - [TestNG](https://testng.org/)
 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
