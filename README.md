@@ -33,7 +33,6 @@ src/
 1. Clone the repository:
    ```sh
    git clone https://github.com/thomsq/api-automation-rest.git
-   cd api-automation-rest
    ```
 2. Install dependencies:
    ```sh
